@@ -4,7 +4,7 @@ Hello world!
 
 # Heading 2
 
-This is a link to my [reflective statement] (reflection.html).
+This is a link to my [reflective statement](reflection.html).
 
 # Heading 1
 
