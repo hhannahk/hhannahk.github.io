@@ -15,5 +15,8 @@ In fact, as the Fabricator of the group, Nicole and I worked together to design,
 ![design](Design.png) 
 *Initial design from iPad.*
 
+![lasercutting](Lasercutting.png) 
+*Cutting out a layer of the Community Tree with a lasor cutter.*
+
 Overall, I believe our project successfully captures the attention of the audience, and encapsulates not only the informational aspect of the dataset, but also enables the audience to build a connection with those incarcerated over the shared celebration of holidays. I personally enjoyed this project, especially working hands-on and learning about the 3D printing process and laser cutting, along with their various applications from digital humanities to medicine. Once again, I am grateful for the opportunity to take part in a wonderful team and for all the help we received from the staff at Education Commons: Christine, Tex, Lexi, and Noah. 
 
