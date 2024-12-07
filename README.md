@@ -1,11 +1,15 @@
 # hhannahk.github.io
 
-Hello world!
+Welcome to Hannah's github portfolio documenting digital humanities projects and reflections from Fall 2024. 
 
-# Heading 2
+# Collaborative Project in the Education Commons
+
+This is a link to my [reflective statement](ec_reflection.md).
+
+# Semester Reflection
 
 This is a link to my [reflective statement](reflection.html).
 
-# Heading 1
+# Future Plans
 
 This is a link to my [future plans and aspirations](lookingforward.html).
