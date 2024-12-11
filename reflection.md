@@ -12,11 +12,27 @@ Encompassing the two themes above is **curation**, which stems from the Latin ro
 
 These three themes were the centerpiece of the projects I worked on this semester. Accessibility of datasets such as *The Umpire* and archived newspaper articles through [Ancestry.com](https://franklin.library.upenn.edu/catalog/FRANKLIN_9942524713503681) and [Chronicling America](https://chroniclingamerica.loc.gov/?&loclr=reclnk#tab=tab_advanced_search) enabled thorough research of George W. Yeaple’s life, both inside and outside the Eastern State Penitentiary (ESP). Without access to these data available on the internet, a comprehensive understanding of Yeaple’s life would have been impossible. Limitation of resources may have added bias to the [multimedia essay](https://printinginprisons.org/blog/kimh/), as it would have been difficult to know Yeaple as a father or an apprentice printer through *The Umpire*. The [group project at Education Commons](https://hhannahk.github.io/ec_reflection.html) focused more on intentionality, as the main goal of the project revolved around meaningful presentation of data. During the process I learned about different ways we can be intentional, not only through the usage of right vocabularies, but also through choice of materials and tangibility. 
 
+![ec project](ECproject.png) 
+*Putting together the Community Tree (EC Project).*
 
+![final product](FinalProduct1.png) 
+*Completed Community Tree.*
 
 Throughout the semester, I primarily focused on putting intentionality behind all my work, attempting to include thoughts about intended audience, and possible meaningful usage of my projects. I’m proud of the narrative voice incorporated into my multimedia project, enhancing the connection with the audience, along with the design of a meaningful purpose in the EC project:  humanization of the incarcerated beyond mere presentation of data. I’m also happy I was able to attend workshops that I enjoyed instead of doing something just for the sake of finishing the assignments. However, if there is one thing that I can change, it is the topic of my multimedia essay. Learning about Yeaple was very intriguing, but originally I wanted to research about an artist at ESP. Although I’m happy with my work, I wish I spent more time looking through *The Umpire* archive. 
 
+![ESP1](ESP1.png) 
+*Tall walls of Eastern State Penitentiary, dividing the ESP from the outside world.*
+
+![ESP2](ESP2.png) 
+*Baseball court of the ESP. Taken during class field trip to ESP.*
+
 One trend I noticed throughout this semester is that I love hands-on experiences. I was already aware of this preference, as a kid who loved drawing from a young age, to someone who enjoys working hands-on in a wet lab environment. Reflecting on my favorite parts about the projects and workshops this semester, I noticed a pattern. For the project in EC, my favorite part was building the physical model, gluing the pieces one-by-one and cutting out the stickers. For the multimedia essay, it was visiting the Eastern State Penitentiary and walking through the halls and rooms Yeaple had also been at long time ago. In external workshops, I gravitated towards classes that enabled me to create things hands-on, such as a wheel-throwing pottery class where I made a clay mug or a book-binding class where I made a journal for myself. 
+
+![pottery](pottery.png) 
+*Wheel-throwing class at The Clay Studio.*
+
+![bookbinding](bookbinding.png) 
+*Bookbinding: Case Binding class at the Common Press.*
 
 Then, a question arose, *why do I love creating things hands-on?*
 
