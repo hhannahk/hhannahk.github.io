@@ -40,6 +40,6 @@ Even in the world of advancing technology, where machines also “create”, the
 
 The three core themes of digital humanities are not only relevant to me, a student studying sciences, but rather to everyone, as they relate to all data put on the internet. As more and more information and data are becoming accessible through the internet, being intentional about what we put on the web and evolving critical thinking skills to judge what is reliable will become essential.
 
-## Citation
+## Citations
 1. Berry, D. (2023, December 7). The House Archives built. https://www.uproot.space/features/the-house-archives-built
 2. Rawson, K., & Muñoz, T. (2019). Against cleaning. *Debates in the Digital Humanities* 2019, 279–292. https://doi.org/10.5749/j.ctvg251hk.26 
