@@ -6,4 +6,4 @@ Some steps I hope to take to continue my exploration and studies of digital lite
    
 2) **Explore various applications of 3D printing.** While talking with Noah at the Education Commons, I learned that 3D printing is used in medicinal field as well. I want to visit the 3D printing center at the Biotech Commons and learn more in depth about the fields the technology can be applied in. Hopefully, I will be able to work on an interesting passion project related to the application of 3D printing in medical or dental research.
    
-3) **Attend more workshops.** I never realized Penn offers so many free workshops. I would like to take advantage of more of these workshops to learn a new skill or to relax by working hands-on on something interesting. I will keep an eye out for exciting classes coming up through the Common Press newsletter. 
+3) **Attend more workshops.** I never realized Penn offers so many free workshops. I would like to take advantage of more of these workshops to learn a new skill or to take a break from studying by creating something interesting. I will keep an eye out for exciting classes coming up through the Common Press newsletter. 
