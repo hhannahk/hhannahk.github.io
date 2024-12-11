@@ -21,7 +21,7 @@ These three themes were the centerpiece of the projects I worked on this semeste
 Throughout the semester, I primarily focused on putting intentionality behind all my work, attempting to include thoughts about intended audience, and possible meaningful usage of my projects. I’m proud of the narrative voice incorporated into my multimedia project, enhancing the connection with the audience, along with the design of a meaningful purpose in the EC project:  humanization of the incarcerated beyond mere presentation of data. I’m also happy I was able to attend workshops that I enjoyed instead of doing something just for the sake of finishing the assignments. However, if there is one thing that I can change, it is the topic of my multimedia essay. Learning about Yeaple was very intriguing, but originally I wanted to research about an artist at ESP. Although I’m happy with my work, I wish I spent more time looking through *The Umpire* archive. 
 
 ![ESP1](ESP1.png) 
-*Tall walls of Eastern State Penitentiary, dividing the ESP from the outside world.*
+*Tall walls of ESP, isolating from the outside world.*
 
 ![ESP2](ESP2.png) 
 *Baseball court of the ESP. Taken during class field trip to ESP.*
